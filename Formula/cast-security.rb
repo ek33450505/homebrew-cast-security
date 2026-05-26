@@ -1,9 +1,9 @@
 class CastSecurity < Formula
   desc "Security hooks and audit trail for Claude Code"
   homepage "https://github.com/ek33450505/cast-security"
-  url "https://github.com/ek33450505/cast-security/archive/refs/tags/v0.2.0.tar.gz"
-  version "0.2.0"
-  sha256 "88b373c36d5f72aee7ade27e562ad21da8339f4afdb52b7fbf25f18019794d01"
+  url "https://github.com/ek33450505/cast-security/archive/refs/tags/v0.3.0.tar.gz"
+  version "0.3.0"
+  sha256 "5dc96654dc2e58f84fdb7c948043be92c40c0498d7da4e9fc410239c6333c9a7"
   license "MIT"
 
   depends_on "python3" => :required
